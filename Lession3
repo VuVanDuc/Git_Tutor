@@ -1,0 +1,11 @@
+# Tao branch moi
+git branch name_branch
+# Chuyen sang branch moi
+git checkout name_branch
+# Commit change
+git add .
+git commit -m 'your message'
+# Tro lai master
+git checkout master
+# Push
+git push origin name_branch
