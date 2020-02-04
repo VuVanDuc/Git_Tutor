@@ -1,0 +1,10 @@
+# Tao resposity moi
+git init
+# Add file moi
+git add name_file
+# Commit voi message
+git commit -m "first commit"
+# Them remote
+git remote add origin https://github.com/VuVanDuc/*.git
+# Push vao remote
+git push origin master
